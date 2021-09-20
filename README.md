@@ -4,7 +4,8 @@ Scripts for the paper "Generalised Flatness Constants: A Framework Applied in Di
 
 Content | Description
 ------- | -----------
-R_X_free.m | a MAGMA script to check the inclusion-maximal &#8477;-&#916;&#x2082;-free examples from Section 5.1 in the paper
+gen_flat_dim1.m | MAGMA script to compute generalised flatness constants of closed intervals [x,y] in 1 dimensions 
+R_X_free.m | MAGMA script to check the inclusion-maximal &#8477;-&#916;&#x2082;-free examples from Section 5.1 in the paper
 Z_Delta2_triangles | folder with python and polymake scripts computing the maximal width of triangles circumscribed around the four polygons from Table 1 in the paper. PDF files provide further details about the mathematical steps involved.
 
 ## Setup
